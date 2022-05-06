@@ -1,5 +1,8 @@
-
-
+# Hi I'm Nack
+## About me
+- 🎓Junior student at Chiang Mai university.
+- 📖Passionate about learning new tool and skill in coding.
+- 
 
 <!--
 **nakere424/nakere424** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
