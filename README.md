@@ -1,8 +1,9 @@
-# Hi I'm Nack
-## About me
-- 🎓Junior student at Chiang Mai university.
-- 📖Passionate about learning new tool and skill in coding.
-- 
+# Hello! Nack's here
+I'm currently junior student studying in science bachelor at Chiang Mai university, Thailand📖. I'm comfortable when working with deep learning model in image processing and computer vision👁‍🗨. I'm passionate about learning more machine translation, frontend developing, and developer tools❤️‍🔥. When I'm exhausted from working, I often play visual novel games and sometime play rythm game like Arcaea and Cytus II in my iPad🎮.
+
+<p align="center">
+
+</p>
 
 <!--
 **nakere424/nakere424** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
