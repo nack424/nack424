@@ -32,7 +32,7 @@ I'm currently junior student studying in science bachelor at Chiang Mai universi
 ![github](https://img.shields.io/badge/-github-black?style=for-the-badge&logo=github&logoColor=white)
 ![Visual%20Studio%20Code](https://img.shields.io/badge/-Visual%20Studio%20Code-23ACFF?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
-## My stats
+## 📈My stats
 ![nakere424's Github Stats](https://github-readme-stats.vercel.app/api?username=nakere424&count_private=true&show_icons=true&include_all_commits=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nakere424&hide=TeX&layout=compact)
