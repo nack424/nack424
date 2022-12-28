@@ -12,7 +12,7 @@ I'm currently junior student studying in science bachelor at Chiang Mai universi
 ## 🛠 Skill and Tools
 ### Programming Languages
 ![python](https://img.shields.io/badge/-python-blue?style=for-the-badge&logo=python&logoColor=white)
-![typescript](https://img.shields.io/badge/-typescript-207BFF?style=for-the-badge&logo=typescript&logoColor=white) -->
+![typescript](https://img.shields.io/badge/-typescript-207BFF?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Libraries
 ![numpy](https://img.shields.io/badge/-numpy-11A0CA?style=for-the-badge&logo=numpy&logoColor=white)
