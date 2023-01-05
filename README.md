@@ -1,13 +1,5 @@
 # Hello! Nack's here 🖐🖐🖐
-I'm currently junior student studying in science bachelor at Chiang Mai university, Thailand📖. I'm comfortable when working with deep learning model in image processing and computer vision👁‍🗨. I'm passionate about learning more machine translation, frontend developing, and developer tools❤️‍🔥. When I'm exhausted from working, I often play visual novel games and sometime play rythm game like Arcaea and Cytus II in my iPad🎮.
-
-### You can also find me at
- <a href="mailto:nakere4@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://www.linkedin.com/in/phutcharaphon-leesuksam/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://www.kaggle.com/ccaitlum/"><img src="https://img.shields.io/badge/kaggle-21A1E1?&style=for-the-badge&logo=kaggle&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
- </a>
- <a href="https://www.facebook.com/phutcharaphon.leesuksam/"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
- </a>
+I'm currently senior student studying in science bachelor at Chiang Mai university, Thailand📖. I'm comfortable when working with deep learning model in image processing and computer vision👁‍🗨. I also have a goal to learn more about machine translation, frontend developing, and developer tools❤️‍🔥.
  
 ## 🛠 Skill and Tools
 ### Programming Languages
