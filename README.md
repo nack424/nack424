@@ -17,4 +17,5 @@ I'm currently senior student studying in science bachelor at Chiang Mai universi
 ![notion](https://img.shields.io/badge/-notion-black?style=for-the-badge&logo=notion&logoColor=white)
 ![github](https://img.shields.io/badge/-github-black?style=for-the-badge&logo=github&logoColor=white)
 ![Visual%20Studio%20Code](https://img.shields.io/badge/-Visual%20Studio%20Code-23ACFF?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+![Pycharm](https://img.shields.io/badge/-pycharm-brightgreen?style=for-the-badge&logo=pycharm&logoColor=black)
 
