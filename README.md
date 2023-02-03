@@ -4,7 +4,6 @@ I'm currently senior student studying in science bachelor at Chiang Mai universi
 ## 🛠 Skill and Tools
 ### Programming Languages
 ![Python](https://img.shields.io/badge/-python-blue?style=for-the-badge&logo=python&logoColor=white)
-![Typescript](https://img.shields.io/badge/-typescript-207BFF?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Libraries
 ![Deepspeed](https://img.shields.io/badge/-deepspeed-orange?style=for-the-badge)
