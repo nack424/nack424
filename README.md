@@ -6,7 +6,6 @@ I'm currently senior student studying in science bachelor at Chiang Mai universi
 ![Python](https://img.shields.io/badge/-python-blue?style=for-the-badge&logo=python&logoColor=white)
 
 ### Libraries
-![Deepspeed](https://img.shields.io/badge/-deepspeed-orange?style=for-the-badge)
 ![Numpy](https://img.shields.io/badge/-numpy-11A0CA?style=for-the-badge&logo=numpy&logoColor=white)
 ![Opencv](https://img.shields.io/badge/-opencv-white?style=for-the-badge&logo=opencv&logoColor=black)
 ![Pandas](https://img.shields.io/badge/-pandas-black?style=for-the-badge&logo=pandas&logoColor=white)
