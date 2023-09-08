@@ -13,7 +13,7 @@ I'm currently senior student studying in science bachelor at Chiang Mai universi
 ![Scikit-learn](https://img.shields.io/badge/-scikit%20learn-orange?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### Software and tools
-#![Docker](https://img.shields.io/badge/-docker-1788FF?style=for-the-badge&logo=docker&logoColor=white)
+<![Docker](https://img.shields.io/badge/-docker-1788FF?style=for-the-badge&logo=docker&logoColor=white)>
 ![Github](https://img.shields.io/badge/-github-black?style=for-the-badge&logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/-notion-black?style=for-the-badge&logo=notion&logoColor=white)
 ![Pycharm](https://img.shields.io/badge/-pycharm-brightgreen?style=for-the-badge&logo=pycharm&logoColor=black)
