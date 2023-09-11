@@ -1,5 +1,5 @@
 # Hello! Nack's here 🖐🖐🖐
-I'm currently senior student studying in science bachelor at Chiang Mai university, Thailand📖. I'm comfortable when working with deep learning model in image processing and computer vision👁‍🗨. I also have a goal to learn more about machine translation, frontend developing, and developer tools❤️‍🔥.
+I'm recently graduated student from science bachelor at Chiang Mai university, Thailand. I'm comfortable when working with computer vision. I also have a goal to learn more about machine translation, frontend developing, and developer tools.
  
 ## 🛠 Skill and Tools
 ### Programming Languages
