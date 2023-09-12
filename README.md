@@ -1,5 +1,5 @@
 # Hello! Nack's here 🖐🖐🖐
-I'm recently graduated student from science bachelor at Chiang Mai university, Thailand. I'm comfortable when working with computer vision. I also have a goal to learn more about machine translation, frontend developing, and developer tools.
+I'm recently graduated student from science bachelor at Chiang Mai university, Thailand. I'm comfortable when working with computer vision and data science related project. I also have a goal to applied my AI knowledge to anime related project.
  
 ## 🛠 Skill and Tools
 ### Programming Languages
