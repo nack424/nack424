@@ -4,7 +4,7 @@ I'm recently graduated student from science bachelor at Chiang Mai university, T
 ## 🛠 Skill and Tools
 ### Programming Languages
 ![Python](https://img.shields.io/badge/-python-blue?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-sql-orange?style=for-the-badge&logo=sql&logoColor=white)
+![SQL](https://img.shields.io/badge/-sql-orange?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Libraries
 ![Numpy](https://img.shields.io/badge/-numpy-11A0CA?style=for-the-badge&logo=numpy&logoColor=white)
